@@ -1,5 +1,5 @@
 # FL-Means Dataset
-by Franklin M. Ribeiro Jr
+\
 
 Dataset collected by the Fog-FL module of Fog A and Fog B.
 
