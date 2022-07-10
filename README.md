@@ -10,4 +10,4 @@ The columns |0|1|2|3|4| of the CSV files represent the data of 0-CPU (%), 1-RAM 
 
 
 
-*We use the scikit-learn library (https://scikit-learn.org) to execute the k-means algorithm and the Calinski-Harabasz validation.
+*We use the scikit-learn library (https://scikit-learn.org) to code the k-means algorithm and the Calinski-Harabasz validation.
